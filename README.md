@@ -11,4 +11,4 @@ Die Browserbasierte Web-App ​BGRemover macht den Hintergrund einer oder mehrer
 
 **​Vorschau der Transparenz**: Das Ergebnis wird in Echtzeit als Vorschau dargestellt.
 
-<mark>Funktioniert bei mehreren Dateien nur für gleiche Hintergrundfarben. sDie gewählte Farbe wird im gesamten Bildbereich transparent. </mark>
+<mark>Funktioniert bei mehreren Dateien nur für gleiche Hintergrundfarben. Die gewählte Farbe wird im gesamten Bildbereich transparent.</mark>
