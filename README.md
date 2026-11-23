@@ -1,14 +1,14 @@
-Cropper entfernt einfarbige Bildränder automatisch und speichert die zugeschnittenen Dateien im Download-Verzeichnis.
+BGRemover macht den Hintergrund von einer oder mehreren Bilddateien transparent und speichert das Ergebnis im Download-Verzeichnis.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-DFFF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khz66)
            
-Die Browserbasierte Web-App ​Cropper erkennt die Randfarbe und schneidet das Bild entsprechend zu. 
+Die Browserbasierte Web-App ​BGRemover macht den Hintergrund einer oder mehrerer Bilddateien transparent und speichert das Ergebnis im Download-Verzeichnis als PNG oder ZIP bei mehreren Dateien. 
 
 # ​Funktionen im Überblick:
-**​Stapelverarbeitung:** Mehrere Bilddateien können ausgewählt werden.
+**​Stapelverarbeitung:** Mehrere Bilddateien können ausgewählt werden. Mehrere Ergebnisdateien können gemeinsam als ZIP gespeichert werden. 
 
-**​Automatische Randerkennung:** Nutzt den Pixel oben links (0,0) als Referenz für den einfarbigen Rand.
+**​Toleranz für die Erkennung:** Die Toleranz, mit der die Hintergrundfarbe erkannt wird, ist über Schieberegler wählbar. 
 
-**​Export der zugeschnittenen Bilder**: Als Dateiname_cropped ins Download-Verzeichnis.
+**​Vorschau der Transparenz**: Das Ergebnis wird in Echtzeit als Vorschau dargestellt.
 
-<mark>Funktioniert nur für streng einfarbige Ränder!</mark>
+<mark>Funktioniert bei mehreren Dateien nur für gleiche Hintergrundfarben. sDie gewählte Farbe wird im gesamten Bildbereich transparent. </mark>
